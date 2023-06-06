@@ -1,4 +1,4 @@
-module ascii_rom_updated(
+module ascii_rom(
     input [11:0] addr,
     output reg [7:0] data
     );
